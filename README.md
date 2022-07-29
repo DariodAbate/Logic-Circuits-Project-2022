@@ -1,7 +1,10 @@
-# Progetto di Reti Logiche (A.A. 2021-2022)
-:it: Lo sviluppo di questo progetto è parte del corso di reti logiche del Politecnico di Milano, e in qualità di prova finale è necessario per il conseguimento della laurea triennale in ingegneria informatica.
-Lo scopo è quello di descrivere in linguaggio VHDL un componente elettronico in grado di eseguire una codifica convoluzionale.<br>
-***Valutazione finale: 30/30 cum laude***
+# Logic Circuits Project 
 
-:uk: The development of this project is part of the digital logic design course at the Polytechnic University of Milan, and as a final examination, it is necessary for the bachelor's degree in computer engineering. The goal is to describe, using VHDL language, an electronic component able to perform convolutional encoding.<br>
+The development of this project is part of the digital logic design course at the Polytechnic University of Milan, and as a final examination, it is necessary for the bachelor's degree in computer engineering. The course was held by prof. William Fornaciari in the academic year 2021-2022.<br>
 ***Final score: 30/30 cum laude***
+
+## Project specification
+<p><em>The complete specification and design of the solution are fully described in the document in the deliverables folder, a brief description follows.</em></p>
+
+<p>The goal of the project is to implement a convolutional encoder with rate of transmission 0.5. It is therefore a question of specifying a hardware component, described in VHDL, which interfaces with a memory.<br>
+</p>
