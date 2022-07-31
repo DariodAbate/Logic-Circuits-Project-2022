@@ -4,6 +4,7 @@ The development of this project is part of the digital logic design course at th
 ***Final score: 30/30 cum laude***
 
 ## Project specification
+
 <p><em>The complete specification and design of the solution are fully described in italian 
 <a href="/deliveries/10686115.pdf">here</a>, a brief description follows.</em></p>
 
